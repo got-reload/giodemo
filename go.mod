@@ -12,7 +12,9 @@ go 1.22.1
 
 // replace gioui.org/shader => /Users/lmc/goget/src/git.sr.ht/eliasnaur/gioui.org/shader
 
-require gioui.org v0.0.0-00010101000000-000000000000
+// require gioui.org v0.0.0-00010101000000-000000000000
+
+require gioui.org v0.6.0
 
 require (
 	gioui.org/cpu v0.0.0-20210817075930-8d6a761490d2 // indirect
