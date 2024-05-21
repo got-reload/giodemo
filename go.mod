@@ -2,11 +2,11 @@ module github.com/got-reload/giodemo
 
 go 1.22.1
 
-replace github.com/got-reload/got-reload => /Users/lmc/goget/src/github.com/got-reload/got-reload
+// replace github.com/got-reload/got-reload => /Users/lmc/goget/src/github.com/got-reload/got-reload
 
-replace github.com/traefik/yaegi => /Users/lmc/goget/src/github.com/traefik/yaegi
+// replace github.com/traefik/yaegi => /Users/lmc/goget/src/github.com/traefik/yaegi
 
-replace gioui.org => /Users/lmc/goget/src/git.sr.ht/eliasnaur/gioui.org
+// replace gioui.org => /Users/lmc/goget/src/git.sr.ht/eliasnaur/gioui.org
 
 // replace gioui.org/cpu => /Users/lmc/goget/src/git.sr.ht/eliasnaur/gioui.org/cpu
 
